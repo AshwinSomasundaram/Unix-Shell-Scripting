@@ -1,0 +1,7 @@
+total 320
+drwx--x--x 5 axs180183 sn    75 Feb  9 23:56 A1part1
+-rw------- 1 axs180183 sn    38 Feb  9 23:54 Makefile
+-rwx--x--x 1 axs180183 sn 12856 Feb  9 23:56 prog1
+-rw------- 1 axs180183 sn  1662 Feb  9 23:32 prog1.c
+-rwx--x--x 1 axs180183 sn  8704 Feb  9 23:56 prog2
+-rw------- 1 axs180183 sn   158 Feb  9 23:46 prog2.c

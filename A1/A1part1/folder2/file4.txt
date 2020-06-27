@@ -1,0 +1,2 @@
+total 32
+drwx--x--x 5 axs180183 sn 75 Feb  3 21:12 A1part1

@@ -1,0 +1,60 @@
+.:
+total 123k
+drwxr-x--x 2 axs180183 sn 54 Feb  3 21:15 folder1
+drwx--x--x 2 axs180183 sn 54 Feb  3 21:16 folder2
+drwx--x--x 2 axs180183 sn 27 Feb  3 21:26 folder3
+-rw------- 1 axs180183 sn  0 Feb  4 21:50 task4log.txt
+
+./folder1:
+total 99k
+-rwxr-x--x 1 axs180183 sn  29 Feb  3 21:29 file1.txt
+-rwxr-x--x 1 axs180183 sn 121 Feb  3 21:30 file2.txt
+
+./folder2:
+total 99k
+-rwx--xr-x 1 axs180183 sn 10 Feb  3 21:30 file3.txt
+-rwx--xr-x 1 axs180183 sn 59 Feb  3 21:30 file4.txt
+
+./folder3:
+total 25k
+lrwxrwxrwx 1 axs180183 sn 9 Feb  3 21:26 link5.txt -> file4.txt
+.:
+total 120
+-rw------- 1 axs180183 sn 559 Feb  4 21:50 task4log.txt
+drwx--x--x 2 axs180183 sn  27 Feb  3 21:26 folder3
+drwx--x--x 2 axs180183 sn  54 Feb  3 21:16 folder2
+drwxr-x--x 2 axs180183 sn  54 Feb  3 21:15 folder1
+
+./folder3:
+total 24
+lrwxrwxrwx 1 axs180183 sn 9 Feb  3 21:26 link5.txt -> file4.txt
+
+./folder2:
+total 96
+-rwx--xr-x 1 axs180183 sn 59 Feb  3 21:30 file4.txt
+-rwx--xr-x 1 axs180183 sn 10 Feb  3 21:30 file3.txt
+
+./folder1:
+total 96
+-rwxr-x--x 1 axs180183 sn 121 Feb  3 21:30 file2.txt
+-rwxr-x--x 1 axs180183 sn  29 Feb  3 21:29 file1.txt
+.:
+total 144
+-rw------- 1 axs180183 sn 1118 Feb  4 21:51 task4log.txt
+drwxr-x--x 2 axs180183 sn   54 Feb  3 21:15 folder1
+drwx--x--x 2 axs180183 sn   54 Feb  3 21:16 folder2
+drwx--x--x 2 axs180183 sn   27 Feb  3 21:26 folder3
+
+./folder1:
+total 96
+-rwxr-x--x 1 axs180183 sn 121 Feb  3 21:30 file2.txt
+-rwxr-x--x 1 axs180183 sn  29 Feb  3 21:29 file1.txt
+
+./folder2:
+total 96
+-rwx--xr-x 1 axs180183 sn 59 Feb  3 21:30 file4.txt
+-rwx--xr-x 1 axs180183 sn 10 Feb  3 21:30 file3.txt
+
+./folder3:
+total 24
+lrwxrwxrwx 1 axs180183 sn 9 Feb  3 21:26 link5.txt -> file4.txt

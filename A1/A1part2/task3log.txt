@@ -1,0 +1,27 @@
+.:
+total 176
+drwx--x--x 5 axs180183 sn   75 Feb  9 14:14 A1part1
+-rwx--x--x 1 axs180183 sn 1137 Feb  9 14:10 script.sh
+-rw------- 1 axs180183 sn   10 Feb  9 13:09 srcipt1.sh
+-rw------- 1 axs180183 sn  821 Feb  9 14:14 task2log.txt
+-rw------- 1 axs180183 sn    0 Feb  9 14:14 task3log.txt
+
+./A1part1:
+total 96
+drwx--x--x 2 axs180183 sn 54 Feb  9 14:14 folder1
+drwx--x--x 2 axs180183 sn 54 Feb  9 14:14 folder2
+drwx--x--x 2 axs180183 sn 23 Feb  9 14:14 folder3
+
+./A1part1/folder1:
+total 96
+-rwxr-x--x 1 axs180183 sn  29 Feb  9 14:14 file1.txt
+-rwxr-x--x 1 axs180183 sn 121 Feb  9 14:14 file2.txt
+
+./A1part1/folder2:
+total 96
+-rwx--xr-x 1 axs180183 sn  10 Feb  9 14:14 file3.txt
+-rwx--xr-x 1 axs180183 sn 171 Feb  9 14:14 file4.txt
+
+./A1part1/folder3:
+total 24
+lrwxrwxrwx 1 axs180183 sn 68 Feb  9 14:14 link5 -> /home/010/a/ax/axs180183/cs3377/A1/A1part2/A1part1/folder2/file4.txt

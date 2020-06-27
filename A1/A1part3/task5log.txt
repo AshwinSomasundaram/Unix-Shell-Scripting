@@ -1,0 +1,34 @@
+.:
+total 512
+drwx--x--x 5 axs180183 sn    75 Feb  9 23:56 A1part1
+-rw------- 1 axs180183 sn   514 Feb  9 23:56 A1part1.tar.gz
+-rw------- 1 axs180183 sn  1835 Feb  9 23:56 A1part1.zip
+-rw------- 1 axs180183 sn    38 Feb  9 23:54 Makefile
+-rwx--x--x 1 axs180183 sn 12856 Feb  9 23:56 prog1
+-rw------- 1 axs180183 sn  1662 Feb  9 23:32 prog1.c
+-rwx--x--x 1 axs180183 sn  8704 Feb  9 23:56 prog2
+-rw------- 1 axs180183 sn   158 Feb  9 23:46 prog2.c
+-rw------- 1 axs180183 sn   937 Feb  9 23:56 task2log.txt
+-rw------- 1 axs180183 sn   995 Feb  9 23:56 task3log.txt
+-rw------- 1 axs180183 sn  3155 Feb  9 23:56 task4log.txt
+-rw------- 1 axs180183 sn     0 Feb  9 23:56 task5log.txt
+
+./A1part1:
+total 96
+drwx--x--x 2 axs180183 sn 54 Feb  9 23:56 folder1
+drwx--x--x 2 axs180183 sn 54 Feb  9 23:56 folder2
+drwx--x--x 2 axs180183 sn 27 Feb  9 23:56 folder3
+
+./A1part1/folder1:
+total 96
+-rwxr-x--x 1 axs180183 sn  29 Feb  9 23:56 file1.txt
+-rwxr-x--x 1 axs180183 sn 121 Feb  9 23:56 file2.txt
+
+./A1part1/folder2:
+total 96
+-rwx--xr-x 1 axs180183 sn  10 Feb  9 23:56 file3.txt
+-rwx--xr-x 1 axs180183 sn 325 Feb  9 23:56 file4.txt
+
+./A1part1/folder3:
+total 24
+lrwxrwxrwx 1 axs180183 sn 25 Feb  9 23:56 file5.txt -> A1part1/folder2/file4.txt

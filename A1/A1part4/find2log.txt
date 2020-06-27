@@ -1,0 +1,11 @@
+  16264   16264  765243
+/usr/include/sql.h
+/usr/include/langinfo.h
+/usr/include/tkDecls.h
+/usr/include/dlfcn.h
+/usr/include/xtables.h
+/usr/include/semaphore.h
+/usr/include/etip.h
+/usr/include/netlink/handlers.h
+/usr/include/netlink/types.h
+/usr/include/netlink/cache.h

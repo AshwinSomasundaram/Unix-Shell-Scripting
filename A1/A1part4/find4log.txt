@@ -1,0 +1,4 @@
+      3       6     144
+594228 /usr/include/X11/Xaw/Template.c
+558729 /usr/include/nss3/templates/templates.c
+648436 /usr/include/glib-2.0/gobject/gobjectnotifyqueue.c

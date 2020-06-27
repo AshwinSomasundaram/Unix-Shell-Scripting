@@ -1,0 +1,4 @@
+      3       3     123
+/usr/include/X11/Xaw/Template.c
+/usr/include/nss3/templates/templates.c
+/usr/include/glib-2.0/gobject/gobjectnotifyqueue.c
